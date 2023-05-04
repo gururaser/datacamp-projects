@@ -8,3 +8,4 @@ All Projects from '[Data Scientist Professional with Python](https://app.datacam
 - [Project 1 : Investigating Netflix Movies and Guest Stars in The Office](https://github.com/gururaser/datacamp-projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
 - [Project 2 : What and Where are the World's Oldest Businesses](https://github.com/gururaser/datacamp-projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
 - [Project 3 : The Android App Market on Google Play](https://github.com/gururaser/datacamp-projects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
+- [Project 4 : A Visual History of Nobel Prize Winners](https://github.com/gururaser/datacamp-projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
