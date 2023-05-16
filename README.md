@@ -10,3 +10,4 @@ Projects from [DataCamp](https://www.datacamp.com/) my own solutions.
 - [Project 3 : The Android App Market on Google Play](https://github.com/gururaser/datacamp-projects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 - [Project 4 : A Visual History of Nobel Prize Winners](https://github.com/gururaser/datacamp-projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 ## Other [DataCamp](https://app.datacamp.com/learn/projects) Projects
+- [Project 5 : Generating Keywords for Google Ads](https://github.com/gururaser/datacamp-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)
