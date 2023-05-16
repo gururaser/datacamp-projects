@@ -1,5 +1,5 @@
 # DataCamp Projects
-Projects from [DataCamp](https://www.datacamp.com/) my own solutions.
+Projects from [DataCamp](https://www.datacamp.com/) with my own solutions.
 
 
 ![Career Path](https://github.com/gururaser/datacamp-projects/blob/main/Web%20yakalama_23-4-2023_163051_app.datacamp.com.jpeg)
