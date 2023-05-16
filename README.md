@@ -11,3 +11,4 @@ Projects from [DataCamp](https://www.datacamp.com/) with my own solutions.
 - [Project 4 : A Visual History of Nobel Prize Winners](https://github.com/gururaser/datacamp-projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 ## Other [DataCamp](https://app.datacamp.com/learn/projects) Projects
 - [Project 5 : Generating Keywords for Google Ads](https://github.com/gururaser/datacamp-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)
+- [Project 6 : The GitHub History of the Scala Language](https://github.com/gururaser/datacamp-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
