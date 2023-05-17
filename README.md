@@ -12,3 +12,4 @@ Projects from [DataCamp](https://www.datacamp.com/) with my own solutions.
 ## Other [DataCamp](https://app.datacamp.com/learn/projects) Projects
 - [Project 5 : Generating Keywords for Google Ads](https://github.com/gururaser/datacamp-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)
 - [Project 6 : The GitHub History of the Scala Language](https://github.com/gururaser/datacamp-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
+- [Project 7 : Exploring the Bitcoin Cryptocurrency Market](https://github.com/gururaser/datacamp-projects/tree/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
