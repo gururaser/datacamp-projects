@@ -13,3 +13,5 @@ Projects from [DataCamp](https://www.datacamp.com/) with my own solutions.
 - [Project 5 : Generating Keywords for Google Ads](https://github.com/gururaser/datacamp-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)
 - [Project 6 : The GitHub History of the Scala Language](https://github.com/gururaser/datacamp-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
 - [Project 7 : Exploring the Bitcoin Cryptocurrency Market](https://github.com/gururaser/datacamp-projects/tree/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
+- [Project 8 : Analyze International Debt Statistics](https://github.com/gururaser/datacamp-projects/tree/main/Analyze%20International%20Debt%20Statistics)
+- [Project 9 : Analyzing NYC Public School Test Result Scores](https://github.com/gururaser/datacamp-projects/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
