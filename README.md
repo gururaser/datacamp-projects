@@ -16,3 +16,4 @@ Projects from [DataCamp](https://www.datacamp.com/) with my own solutions.
 - [Project 7 : Exploring the Bitcoin Cryptocurrency Market](https://github.com/gururaser/datacamp-projects/tree/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 - [Project 8 : Analyze International Debt Statistics](https://github.com/gururaser/datacamp-projects/tree/main/Analyze%20International%20Debt%20Statistics)
 - [Project 9 : Analyzing NYC Public School Test Result Scores](https://github.com/gururaser/datacamp-projects/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
+- [Project 11 : Classify Song Genres from Audio Data](https://github.com/gururaser/datacamp-projects/tree/main/Classify%20Song%20Genres%20from%20Audio%20Data)
